@@ -7,7 +7,7 @@ Este projeto utiliza a biblioteca Streamlit no Python para criar uma aplicação
 ---
 
 ## 📈 Demostração:
-
+[Demostração da aplicação](imagens/Imagem_aplicacao.png)
 
 ---
 
