@@ -2,7 +2,7 @@
 
 🗺️ **Análise do clima para o estado de São Paulo com visualização interativa**
 
-Este projeto utiliza a biblioteca Streamlit no Python para criar aplicação interativa que permite explorar dados climáticos de precipitação e temperatura do NASAPOWER de diferentes municípios para o estado de São Paulo, comparando diferentes meses e anos.
+Este projeto utiliza a biblioteca Streamlit no Python para criar uma aplicação interativa que permite explorar dados climáticos de precipitação e temperatura do [NASAPOWER](https://power.larc.nasa.gov/) de diferentes municípios para o estado de São Paulo, comparando diferentes meses e anos.
 
 ---
 
