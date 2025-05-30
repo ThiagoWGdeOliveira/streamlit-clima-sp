@@ -1,15 +1,11 @@
-import pandas as pd
-import numpy as np
-import geopandas as gpd # type: ignore
-import json
-import requests
-import matplotlib.pyplot as plt
-import seaborn as sns
-import streamlit as st # type: ignore
-import folium
-import os
-from streamlit_folium import st_folium # type: ignore
-from datetime import datetime, timedelta
-import plotly.express as px
-import plotly.graph_objects as go
-import matplotlib.colors as mcolors
+pandas
+numpy
+geopandas
+json5
+requests
+matplotlib
+seaborn
+streamlit
+folium
+streamlit_folium
+plotly
